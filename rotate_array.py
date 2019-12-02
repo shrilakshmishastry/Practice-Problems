@@ -1,4 +1,5 @@
-# Given an unsorted array arr[] of size N, rotate it by D elements (clockwise). 
+# Given an unsorted array arr[] of size N, rotate it by D elements (clockwise).
+
 test_case = int(input())
 for i in range(0,test_case):
     array_size,rotate_pos = input().split()
